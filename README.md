@@ -75,7 +75,7 @@ $ yarn build
 
 <br />
 
-![CoreUI - Flask Dashboard provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-coreui/master/media/flask-dashboard-coreui-screen.png)
+![CoreUI - Flask Dashboard provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-coreui/master/media/flask-dashboard-coreui-screen-3.png)
 
 <br />
 
