@@ -1,8 +1,8 @@
 # [CoreUI](https://coreui.io/?ref=appseed) Free Resources
 
-**CoreUI** is an Open Source Bootstrap Admin Template. But CoreUI is not just another Admin Template. It goes way beyond hitherto admin templates thanks to transparent code and file structure. And if that's not enough, let’s just add that CoreUI consists bunch of unique features and over 1000 high quality icons.
+**[CoreUI](https://coreui.io/?ref=appseed)** is an Open Source Bootstrap Admin Template. But CoreUI is not just another Admin Template. It goes way beyond hitherto admin templates thanks to transparent code and file structure. And if that's not enough, let’s just add that CoreUI consists bunch of unique features and over 1000 high quality icons.
 
-CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of redundant components, so the app is light enough to offer ultimate user experience. This means mobile devices also, where the navigation is just as easy and intuitive as on a desktop or laptop. The CoreUI Layout API lets you customize your project for almost any device – be it Mobile, Web or WebApp – CoreUI covers them all!
+**[CoreUI](https://coreui.io/?ref=appseed)** is meant to be the UX game changer. Pure & transparent code is devoid of redundant components, so the app is light enough to offer ultimate user experience. This means mobile devices also, where the navigation is just as easy and intuitive as on a desktop or laptop. The CoreUI Layout API lets you customize your project for almost any device – be it Mobile, Web or WebApp – CoreUI covers them all!
 
 <br />
 
@@ -14,7 +14,7 @@ CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of 
 
 <br />
 
-## AdminLTE - HTML Files
+## CoreUI - HTML Files
 
 The HTML files can be downloaded directly from the public repository and the project, actively supported by CoreUI core team.
 
@@ -37,7 +37,7 @@ $ yarn build
 
 <br />
 
-## [Jinja2 CoreUI](https://theme-jinja2-coreui.appseed.us/)
+## [CoreUI - Jinja2](https://theme-jinja2-coreui.appseed.us/)
 
 > Template Theme provided by [AppSeed](https://appseed.us?ref=gh) - Features:
 
@@ -83,7 +83,7 @@ $ yarn build
 
 <br />
 
-## [Django Dashboard CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui?ref=gh)
+## [CoreUI - Django Dashboard](https://appseed.us/admin-dashboards/django-dashboard-coreui?ref=gh)
 
 > **Open-Source Admin Dashboard** coded in **Django Framework** by [AppSeed](https://appseed.us?ref=gh) - Features:
 
